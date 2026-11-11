@@ -16,7 +16,7 @@
 
 | OS | ファイル |
 |---|---|
-| Windows | `TierListStudio-win-Setup.exe`（インストール版）／ `TierListStudio-win-Portable.zip`（展開して使う版） |
+| Windows | `TierListStudio-win-Setup.exe`（インストール版）／ `TierListStudio-win-Portable.zip`（ポータブル版） |
 | macOS（Apple Silicon: M1 以降） | `TierListStudio-osx-arm64-Portable.zip` |
 | macOS（Intel） | `TierListStudio-osx-x64-Portable.zip` |
 
